@@ -1,10 +1,9 @@
-## These functions take a matrix and cache it. 
-## They also a compute its inverse and cache it.
+## These functions take a matrix computes its inverse and cache it.
 
 ## This function sets the value of the matrix, and returns a list that contains 
 ## functions to: set the value of the matrix, get the value of the matrix, 
 ## set the value of the matrix inverse, and get the value of the matrix
-## inverse. It caches Both the matrix and the matrix inverse.
+## inverse. It caches the matrix inverse.
 
 makeCacheMatrix <- function(x = matrix()) {
         inv <- NULL
