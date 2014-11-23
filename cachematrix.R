@@ -1,4 +1,4 @@
-## These functions take a matrix computes its inverse and cache it.
+## These functions take a matrix and computes its inverse and caches it.
 
 ## This function sets the value of the matrix, and returns a list that contains 
 ## functions to: set the value of the matrix, get the value of the matrix, 
